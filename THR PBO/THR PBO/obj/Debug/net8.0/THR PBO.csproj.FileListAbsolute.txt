@@ -1,0 +1,14 @@
+D:\Visual Studio\THR PBO\THR PBO\bin\Debug\net8.0\THR PBO.exe
+D:\Visual Studio\THR PBO\THR PBO\bin\Debug\net8.0\THR PBO.deps.json
+D:\Visual Studio\THR PBO\THR PBO\bin\Debug\net8.0\THR PBO.runtimeconfig.json
+D:\Visual Studio\THR PBO\THR PBO\bin\Debug\net8.0\THR PBO.dll
+D:\Visual Studio\THR PBO\THR PBO\bin\Debug\net8.0\THR PBO.pdb
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.AssemblyInfoInputs.cache
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.AssemblyInfo.cs
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.csproj.CoreCompileInputs.cache
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.dll
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\refint\THR PBO.dll
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.pdb
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\THR PBO.genruntimeconfig.cache
+D:\Visual Studio\THR PBO\THR PBO\obj\Debug\net8.0\ref\THR PBO.dll
